@@ -1,0 +1,7 @@
+E:\Centralogic Training\Assignment1_week2\bin\Debug\Assignment1_week2.exe.config
+E:\Centralogic Training\Assignment1_week2\bin\Debug\Assignment1_week2.exe
+E:\Centralogic Training\Assignment1_week2\bin\Debug\Assignment1_week2.pdb
+E:\Centralogic Training\Assignment1_week2\obj\Debug\Assignment1_week2.csproj.AssemblyReference.cache
+E:\Centralogic Training\Assignment1_week2\obj\Debug\Assignment1_week2.csproj.CoreCompileInputs.cache
+E:\Centralogic Training\Assignment1_week2\obj\Debug\Assignment1_week2.exe
+E:\Centralogic Training\Assignment1_week2\obj\Debug\Assignment1_week2.pdb
